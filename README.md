@@ -1,6 +1,6 @@
 # CodePath_assignment3twitter
 
-**Name of your app** is a basic twitter app to read your tweets.
+Twitter is a basic app to read your tweets.
 
 Time spent: 6 hours spent in total
 
