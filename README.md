@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/walkthrough2.gif' title='Video Walkthrough 2' width='250' alt='Video Walkthrough' />
 
 # CodePath_assignment3twitter
 
